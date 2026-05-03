@@ -1,9 +1,9 @@
 # Student Marks Prediction using Machine Learning
 
 ## Description
-This project demonstrates a simple machine learning model used to predict student marks based on input data.
+This project demonstrates a simple machine learning model that predicts student marks based on study hours.
 
-The model learns patterns from the dataset and improves prediction accuracy by minimizing error.
+The model learns from input data and makes predictions by identifying patterns.
 
 ## Tools Used
 - Python
